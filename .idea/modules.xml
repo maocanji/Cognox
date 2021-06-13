@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../templantes/inspinia-3-master/Static_Full_Version/.idea/Static_Full_Version.iml" filepath="$PROJECT_DIR$/../templantes/inspinia-3-master/Static_Full_Version/.idea/Static_Full_Version.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/banca.iml" filepath="$PROJECT_DIR$/.idea/banca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Malu-Crs-web/.idea/laravel-multiple-auth.iml" filepath="$PROJECT_DIR$/../../Malu-Crs-web/.idea/laravel-multiple-auth.iml" />
+    </modules>
+  </component>
+</project>
